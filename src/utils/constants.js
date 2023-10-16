@@ -1,6 +1,6 @@
 export const ENV={
-
-    SERVER_HOST:"https://gamestoreserver-production-9328.up.railway.app",
+  
+    SERVER_HOST:"https://gamestoreserver-production-9328.up.railway.app/",
     API_URL:"https://gamestoreserver-production-9328.up.railway.app/api",
     ENDPOINTS: {
         AUTH: {

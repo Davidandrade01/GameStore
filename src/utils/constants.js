@@ -1,7 +1,9 @@
 export const ENV={
   
-    SERVER_HOST:"http://localhost:1337",
-    API_URL:"http://localhost:1337/api",
+    // SERVER_HOST:"http://localhost:1337",
+    // API_URL:"http://localhost:1337/api",
+    SERVER_HOST:"http://gamestoreserver-production.up.railway.app",
+    API_URL:"http://gamestoreserver-production.up.railway.app/api",
     ENDPOINTS: {
         AUTH: {
           REGISTER: "auth/local/register",
